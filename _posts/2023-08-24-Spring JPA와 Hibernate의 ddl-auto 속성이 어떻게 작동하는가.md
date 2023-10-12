@@ -1,5 +1,5 @@
 ---
-title: Spring JPA와 Hibernate의 ddl-auto 속성이 어떻게 작동하는가
+title: Spring JPA와 Hibernate의 ddl-auto 속성
 date: 2023-08-24 20:00:00 +0900
 categories:
   - Spring
